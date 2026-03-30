@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs grep:*)",
+      "Bash(git -C \"C:/Users/abdulkerim_inanmis/IdeaProjects/uigen\" log --oneline -5)",
+      "Bash(git:*)"
+    ]
+  }
+}
